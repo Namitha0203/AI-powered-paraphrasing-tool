@@ -78,7 +78,8 @@ ROUGE-1, ROUGE-2, ROUGE-L
 Average semantic similarity
 
 ## Project Structure
-├── AI-powered-paraphrasing-tool.ipynb   # Main notebook
+├── AI-powered-paraphrasing-tool.ipynb  
+
 ├── README.md
 
 
